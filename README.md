@@ -1,11 +1,8 @@
-## My Project
+## NGC-biobert on SageMaker
 
-TODO: Fill this README out!
+NGC-biobert repository provides scripts and recipe to adopt the NVIDIA BERT code-base to achieve state-of-the-art results in biomedical text-mining benchmark tasks. This demo will migrate NGC-biobert on SageMaker
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This project will provide customers in the field of HCLS nlp with out of the box SageMaker solutions to help customers adopt SageMaker quickly
 
 ## Security
 
